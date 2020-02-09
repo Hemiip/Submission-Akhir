@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Favorit</string>
+    <string name="toolbar_title">Aplikasi Favorit</string>
+    <string name="toolbar_description">Daftar Favorit (Movie &amp; Tv Show)</string>
+    <string name="hello_blank_fragment">Selamat Datang</string>
+    <string name="menu_title_movie">Film</string>
+    <string name="menu_title_tvshow">Tv</string>
+    <string name="fragment_title_movie">Katalog Film</string>
+    <string name="fragment_description_movie">Daftar Katalog Film</string>
+    <string name="fragment_title_tv_show">Acara TV</string>
+    <string name="fragment_description_tv_show">Daftar Acara TV</string>
+    <string name="DELETE">HAPUS</string>
+    <string name="txt_detail_release_date">Tanggal Rilis : </string>
+    <string name="txt_no_favorite_data">Tidak Ada Data Favorit</string>
+
+</resources>

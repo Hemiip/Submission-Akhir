@@ -1,0 +1,91 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Film &amp; Tv </string>
+    <string name="description_text">Setelah rumah bagi peradaban paling maju di Bumi,
+            Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan.
+            Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa
+            dan kemudian dunia permukaan. Yang menghalanginya adalah Arthur Curry,
+            Setengah manusia, setengah manusia Atlantis, dan pewaris takhta yang sebenarnya.</string>
+    <string name="txt_detail_category">Kategori : </string>
+    <string name="txt_detail_duration">Durasi : </string>
+    <string name="txt_detail_release_date">Tanggal Rilis : </string>
+    <string name="txt_detail_director">Direktur : </string>
+    <string name="txt_detail_shared">Aplikasi MovieCatalog Oleh Miftah Juanda Batubara</string>
+    <string name="txt_detail_subject">Detail Film</string>
+    <string name="txt_detail_title">Bagikan Via</string>
+    <string name="txt_detail_clicked">Anda Berhasil Menambahkan Ke Favorit </string>
+    <string name="txt_detail_minutes">Menit</string>
+    <string name="poster_cover_description">penutup poster</string>
+    <string name="poster_image_description">deskripsi gambar poster</string>
+    <string name="poster_title_movie_text">The Jungle Book (2016)</string>
+    <string name="poster_duration_text">150 menit</string>
+    <string name="poster_release_date_text">Tanggal Rilis: 19 Oktober 2018 (Indonesia)</string>
+    <string name="poster_director_text">Direktur : Bradley Cooper</string>
+    <string name="poster_category_text">Petualangan, Drama, Keluarga</string>
+    <string name="poster_rating_text">4.0</string>
+    <string name="poster_rating_count_text">/5</string>
+    <string name="poster_description_text">Deskripsi</string>
+    <string name="toolbar_title">Katalog Film</string>
+    <string name="toolbar_description">Katalog Film</string>
+    <string name="item_movie_title">Aquaman</string>
+    <string name="item_movie_duration">150 menit</string>
+    <string name="item_movie_category">Petualangan, Drama, Keluarga</string>
+    <string name="item_movie_description">Deskripsi</string>
+    <string name="menu_share">Bagikan</string>
+    <string name="fragment_title_movie">Katalog Film</string>
+    <string name="fragment_description_movie">Daftar Katalog Film</string>
+    <string name="fragment_title_tv_show">Acara TV</string>
+    <string name="fragment_description_tv_show">Daftar Acara TV</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+    <string name="hello_blank_fragment">Halo fragmen kosong</string>
+    <string name="poster_rating_title">Peringkat :</string>
+    <string name="other_movie_title">Daftar Lainnya</string>
+    <string name="menu_title_movie">Film</string>
+    <string name="menu_title_tvshow">Acara Tv</string>
+    <string name="notificationTitle">Notifikasi</string>
+    <string name="notificationMessage">Yakin Anda Ingin Keluar?</string>
+    <string name="notificationButtonPositive">TIDAK</string>
+    <string name="notificationButtonNegative">YA</string>
+    <string name="text_duration">Durasi : </string>
+    <string name="text_menit"> Menit</string>
+    <string name="txt_trailer">Trailer</string>
+    <string name="no_data_text">Tidak Ada Data!</string>
+    <string name="message_failed">Server Tidak Dapat Merespon</string>
+    <string name="message_connection_error">Koneksi Tidak Baik!</string>
+    <string name="favorite">Favorit</string>
+    <string name="fragment_title_favorite">Favorit</string>
+    <string name="fragment_description_favorite">Daftar Favorit</string>
+    <string name="txt_no_favorite_data">Tidak Ada Data Favorit</string>
+    <string name="toast_text_fav_exist">Item Sudah Ada Di Daftar Favorit</string>
+    <string name="DELETE">HAPUS</string>
+    <string name="appwidget_text">TV &amp; Movies</string>
+    <string name="add_widget">Tambah Widget</string>
+    <string name="empty_text">Data Kosong</string>
+    <string name="setting">Pengaturan</string>
+
+    <string name="release_notification1">Hari Ini</string>
+    <string name="release_notification2">Rilis</string>
+    <string name="preferences_title_1">Ubah Bahasa</string>
+    <string name="preferences_summary_1">Tab untuk merubah Bahasa</string>
+    <string name="preferences_summary_2">Aktifkan atau matikan</string>
+    <string name="preferences_title_2" translatable="false">Pengingat Harian</string>
+    <string name="preferences_title_3">Pengingat Rilir</string>
+    <string name="preferences_summary_3">Aktifkan untuk memberi anda informasi rilis terbaru</string>
+    <string name="Language" translatable="false">Bahasa</string>
+    <string name="Notifications">Notifikasi</string>
+    <string name="repeat_notif">Hallo Kami rindu denganmu&#8230;</string>
+
+    <string name="key_daily_reminder" translatable="false">key_daily_reminder</string>
+    <string name="key_setting_language" translatable="false">key_setting_language</string>
+    <string name="key_release_reminder" translatable="false">key_release_reminder</string>
+    <string name="channel_name" translatable="false">dailyalarm</string>
+    <string name="channel_description" translatable="false">dailyalarm</string>
+    <string name="releasetodayremender">Release reminder set up</string>
+    <string name="toast_failed">Failed</string>
+    <string name="repeatingalarmtoast">Repeating alarm set up</string>
+    <string name="widget_text_fav_tv">Favorite List</string>
+    <string name="txt_pattern_date">yyyy-MM-dd</string>
+    <string name="reales_todat">release Today</string>
+    <string name="toast">Untuk menghapus item Favorite MOVIE Tahan gambar lalu geser ke Kanan.
+        Untuk menghapus item Favorite TV Tahan gambar lalu geser ke Kiri.</string>
+</resources>

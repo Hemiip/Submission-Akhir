@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Movie &amp; TvShow Catalouge</string>
+    <string name="description_text">Once home to the most advanced civilization on Earth,
+            Atlantis is now an underwater kingdom ruled by the power-hungry King Orm.
+            With a vast army at his disposal, Orm plans to conquer the remaining oceanic people
+            and then the surface world. Standing in his way is Arthur Curry,
+            Orm\'s half-human, half-Atlantean brother and true heir to the throne.</string>
+    <string name="txt_detail_category">Category : </string>
+    <string name="txt_detail_duration">Duration : </string>
+    <string name="txt_detail_release_date">Release Date : </string>
+    <string name="txt_detail_director">Director : </string>
+    <string name="txt_detail_shared">Shared By : MovieCatalog Application By Miftah Juanda Batubara</string>
+    <string name="txt_detail_subject">Movie Detail</string>
+    <string name="txt_detail_title">Share Via</string>
+    <string name="txt_detail_clicked">Add To Favorite Success</string>
+    <string name="txt_detail_minutes">Minute</string>
+    <string name="poster_cover_description">poster_cover</string>
+    <string name="poster_image_description">poster_image_description</string>
+    <string name="poster_title_movie_text">The Jungle Book (2016)</string>
+    <string name="poster_duration_text">Duration : 150 minute</string>
+    <string name="poster_release_date_text">Release Date : 19 October 2018 (Indonesia)</string>
+    <string name="poster_director_text">Director : Bradley Cooper</string>
+    <string name="poster_category_text">Adventure, Drama, Familty</string>
+    <string name="poster_rating_text">4.0</string>
+    <string name="poster_rating_count_text">/5</string>
+    <string name="poster_description_text">Description</string>
+    <string name="toolbar_title">Movie Catalogue</string>
+    <string name="toolbar_description">Movie Catalogue</string>
+    <string name="item_movie_title">Aquaman</string>
+    <string name="item_movie_duration">150 menit</string>
+    <string name="item_movie_category">Adventure, Drama, Familty</string>
+    <string name="item_movie_description">Description</string>
+    <string name="menu_share">Share</string>
+    <string name="fragment_title_movie">Movie Catalogue</string>
+    <string name="fragment_description_movie">Movie Catalogue List</string>
+    <string name="fragment_title_tv_show">Tv Show</string>
+    <string name="fragment_description_tv_show">Tv Show List</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="poster_rating_title">Rating :</string>
+    <string name="other_movie_title">Other list</string>
+    <string name="menu_title_movie">Movie</string>
+    <string name="menu_title_tvshow">Tv Show</string>
+    <string name="notificationTitle">Notification</string>
+    <string name="notificationMessage">Are You Sure You Want To Exit?</string>
+    <string name="notificationButtonPositive">NO</string>
+    <string name="notificationButtonNegative">YES</string>
+    <string name="text_duration">Duration : </string>
+    <string name="text_menit"> Minute</string>
+    <string name="txt_trailer">Trailer</string>
+    <string name="no_data_text">No Data!</string>
+    <string name="message_failed">Request Timeout. Please try again!</string>
+    <string name="message_connection_error">Connection Error!</string>
+    <string name="favorite">Favorite</string>
+    <string name="fragment_title_favorite">Favorite</string>
+    <string name="fragment_description_favorite">List Favorite</string>
+    <string name="txt_no_favorite_data">No Favorite Data</string>
+    <string name="toast_text_fav_exist">Item already in Favorite List</string>
+    <string name="DELETE">DELETE</string>
+    <string name="appwidget_text">TV &amp; Movies</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">No Data</string>
+    <string name="setting">Setting</string>
+
+    <string name="release_notification1">Today</string>
+    <string name="release_notification2">release</string>
+    <string name="preferences_title_1">Change Language</string>
+    <string name="preferences_summary_1">Tap to change the language</string>
+    <string name="preferences_summary_2">Turn this option on or off</string>
+    <string name="preferences_title_2">Daily Reminder</string>
+    <string name="preferences_title_3">Release Reminder</string>
+    <string name="preferences_summary_3">Give you a notification of new release movie</string>
+    <string name="Language">Language</string>
+    <string name="Notifications">Notifications</string>
+    <string name="repeat_notif">Dicoding Catalogue Movie missing you&#8230;</string>
+
+    <string name="key_daily_reminder" translatable="false">key_daily_reminder</string>
+    <string name="key_setting_language" translatable="false">key_setting_language</string>
+    <string name="key_release_reminder" translatable="false">key_release_reminder</string>
+    <string name="channel_name" translatable="false">dailyalarm</string>
+    <string name="channel_description" translatable="false">dailyalarm</string>
+    <string name="releasetodayremender">Release reminder set up</string>
+    <string name="toast_failed">Failed</string>
+    <string name="repeatingalarmtoast">Repeating alarm set up</string>
+    <string name="widget_text_fav_tv">Favorite List</string>
+    <string name="txt_pattern_date">yyyy-MM-dd</string>
+    <string name="reales_todat">release Today</string>
+    <string name="toast">To delete a MOVIE Favorite item Hold the image then swipe Right.
+        To delete the Favorite TV item Hold the image then swipe Left.
+    </string>
+
+</resources>

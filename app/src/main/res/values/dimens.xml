@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="large_size">25sp</dimen>
+    <dimen name="margin_small">5dp</dimen>
+    <dimen name="margin_small2">8dp</dimen>
+    <dimen name="small_size">10sp</dimen>
+    <dimen name="largee_size">15sp</dimen>
+    <dimen name="medium_size">20sp</dimen>
+    <dimen name="micro_size">5sp</dimen>
+    <dimen name="margin_left_large">120dp</dimen>
+    <dimen name="text_size_19">19sp</dimen>
+    <dimen name="width_100">100dp</dimen>
+    <dimen name="width_60">60dp</dimen>
+    <dimen name="width_80">80dp</dimen>
+    <dimen name="height_150">150dp</dimen>
+    <dimen name="height_200">200dp</dimen>
+    <dimen name="dimen_136">136dp</dimen>
+    <dimen name="marginmin13">-13dp</dimen>
+    <dimen name="marginlarge">30dp</dimen>
+    <dimen name="radius5">5dp</dimen>
+    <dimen name="margin_top24">24dp</dimen>
+    <dimen name="padding_23">23dp</dimen>
+    <dimen name="margin_top">45dp</dimen>
+    <dimen name="margin_top4">4dp</dimen>
+    <dimen name="margin_top3">3dp</dimen>
+    <dimen name="large_height">330dp</dimen>
+    <dimen name="large_height_350">350dp</dimen>
+    <dimen name="height_178">180dp</dimen>
+    <dimen name="large_margin_bottom">431dp</dimen>
+    <dimen name="activityPadding">16dp</dimen>
+    <dimen name="placeholderImage">60dp</dimen>
+    <dimen name="placeholderTextHeight">8dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="dimen_13">13dp</dimen>
+    <dimen name="dimen_23">23dp</dimen>
+    <dimen name="large_height_300">300dp</dimen>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">8dp</dimen>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B271EC</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="abuabu">#C5C5C5</color>
+    <color name="orange">#FFC107</color>
+    <color name="putih">#FFFFFF</color>
+    <color name="overlay_dark_40">#66000000</color>
+    <color name="grey_60">#666666</color>
+    <color name="grey_40">#2C2C2C</color>
+    <color name="yellow_600">#FDD835</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="red">#FF1744</color>
+</resources>

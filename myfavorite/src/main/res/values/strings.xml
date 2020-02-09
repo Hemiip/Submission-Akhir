@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyFavorite</string>
+    <string name="toolbar_title">My Favorite</string>
+    <string name="toolbar_description">My Favorite List</string>
+    <string name="description_text" translatable="false">Once home to the most advanced civilization on Earth,
+            Atlantis is now an underwater kingdom ruled by the power-hungry King Orm.
+            With a vast army at his disposal, Orm plans to conquer the remaining oceanic people
+            and then the surface world. Standing in his way is Arthur Curry,
+            Orm\'s half-human, half-Atlantean brother and true heir to the throne.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_title_movie">Movie</string>
+    <string name="menu_title_tvshow">Tv Show</string>
+    <string name="fragment_title_movie">Movie Catalogue</string>
+    <string name="fragment_description_movie">Movie Catalogue List</string>
+    <string name="fragment_title_tv_show">Tv Show</string>
+    <string name="fragment_description_tv_show">Tv Show List</string>
+    <string name="DELETE">DELETE</string>
+    <string name="item_movie_title" translatable="false">Aquaman</string>
+    <string name="item_movie_duration" translatable="false">150 menit</string>
+    <string name="item_movie_category" translatable="false">Adventure, Drama, Familty</string>
+    <string name="item_movie_description" translatable="false">Description</string>
+    <string name="menu_share" translatable="false">Share</string>
+    <string name="poster_description_text" translatable="false">Description</string>
+    <string name="txt_detail_release_date">Release Date : </string>
+    <string name="txt_no_favorite_data">No Favorite Data</string>
+</resources>
